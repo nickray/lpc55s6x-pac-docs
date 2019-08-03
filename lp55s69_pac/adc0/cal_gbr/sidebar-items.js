@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CAL_GBR_VALR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_CAL_GBR_VALW","Proxy"]]});

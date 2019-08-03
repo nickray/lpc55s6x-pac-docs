@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["MULTITASKR","Possible values of the field `MULTITASK`"],["MULTITASKW","Values that can be written to the field `MULTITASK`"]],"struct":[["NOBR","Value of the field"],["NOCR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_MULTITASKW","Proxy"],["_NOBW","Proxy"],["_NOCW","Proxy"]]});

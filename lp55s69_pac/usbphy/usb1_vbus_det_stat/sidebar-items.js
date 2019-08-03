@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["AVALIDR","Possible values of the field `AVALID`"],["BVALIDR","Possible values of the field `BVALID`"],["SESSENDR","Possible values of the field `SESSEND`"],["VBUS_VALIDR","Possible values of the field `VBUS_VALID`"],["VBUS_VALID_3VR","Possible values of the field `VBUS_VALID_3V`"]],"struct":[["R","Value read from the register"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CENR","Possible values of the field `CEN`"],["CENW","Values that can be written to the field `CEN`"],["CRSTR","Possible values of the field `CRST`"],["CRSTW","Values that can be written to the field `CRST`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"],["_CENW","Proxy"],["_CRSTW","Proxy"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["XO_READYR","Possible values of the field `XO_READY`"]],"struct":[["R","Value read from the register"]]});

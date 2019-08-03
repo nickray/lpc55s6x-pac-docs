@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FRAME_DELAYR","Value of the field"],["POST_DELAYR","Value of the field"],["PRE_DELAYR","Value of the field"],["R","Value read from the register"],["TRANSFER_DELAYR","Value of the field"],["W","Value to write to the register"],["_FRAME_DELAYW","Proxy"],["_POST_DELAYW","Proxy"],["_PRE_DELAYW","Proxy"],["_TRANSFER_DELAYW","Proxy"]]});

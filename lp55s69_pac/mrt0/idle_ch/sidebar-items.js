@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CHANR","Value of the field"],["R","Value read from the register"]]});

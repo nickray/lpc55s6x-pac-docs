@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CMDSRCR","Possible values of the field `CMDSRC`"],["LOOPCNTR","Possible values of the field `LOOPCNT`"],["TSRCR","Possible values of the field `TSRC`"],["VALIDR","Possible values of the field `VALID`"]],"struct":[["DR","Value of the field"],["R","Value read from the register"]]});

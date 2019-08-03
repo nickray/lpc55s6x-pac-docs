@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["MAPR","Possible values of the field `MAP`"],["MAPW","Values that can be written to the field `MAP`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"],["_MAPW","Proxy"]]});

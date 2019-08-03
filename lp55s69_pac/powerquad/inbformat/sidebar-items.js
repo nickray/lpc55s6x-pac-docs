@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["INB_FORMATEXTR","Value of the field"],["INB_FORMATINTR","Value of the field"],["INB_SCALERR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_INB_FORMATEXTW","Proxy"],["_INB_FORMATINTW","Proxy"],["_INB_SCALERW","Proxy"]]});

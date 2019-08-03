@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["clr","SCT output 0 clear register"],["set","SCT output 0 set register"]],"struct":[["CLR","SCT output 0 clear register"],["SET","SCT output 0 set register"]]});

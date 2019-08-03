@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EP_LIST_FIXEDR","Value of the field"],["EP_LIST_PRGR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_EP_LIST_PRGW","Proxy"]]});

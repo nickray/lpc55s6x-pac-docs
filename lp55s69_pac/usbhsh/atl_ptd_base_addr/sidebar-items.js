@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ATL_BASER","Value of the field"],["ATL_CURR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_ATL_BASEW","Proxy"],["_ATL_CURW","Proxy"]]});

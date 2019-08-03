@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["pcfg1","Configuration register 1 for channel pair"],["pcfg2","Configuration register 2 for channel pair"],["pstat","Status register for channel pair"]],"struct":[["PCFG1","Configuration register 1 for channel pair"],["PCFG2","Configuration register 2 for channel pair"],["PSTAT","Status register for channel pair"]]});

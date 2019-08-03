@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CAPVAL_SCALER","Value of the field"],["PROGR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_CAPVAL_SCALEW","Proxy"],["_PROGW","Proxy"]]});

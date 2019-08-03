@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CTRLBPAIRR","Possible values of the field `CTRLBPAIR`"],["CTRLBPAIRW","Values that can be written to the field `CTRLBPAIR`"]],"struct":[["COUNTR","Value of the field"],["CTRLOFFR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_COUNTW","Proxy"],["_CTRLBPAIRW","Proxy"],["_CTRLOFFW","Proxy"]]});

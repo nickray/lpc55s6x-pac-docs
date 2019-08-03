@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["QUALMODE0R","Possible values of the field `QUALMODE0`"],["QUALMODE0W","Values that can be written to the field `QUALMODE0`"]],"struct":[["R","Value read from the register"],["SLVQUAL0R","Value of the field"],["W","Value to write to the register"],["_QUALMODE0W","Proxy"],["_SLVQUAL0W","Proxy"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["DEV_PULLDOWNR","Possible values of the field `DEV_PULLDOWN`"],["DEV_PULLDOWNW","Values that can be written to the field `DEV_PULLDOWN`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"],["_DEV_PULLDOWNW","Proxy"]]});

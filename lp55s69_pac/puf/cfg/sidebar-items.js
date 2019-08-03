@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BLOCKENROLL_SETKEYR","Value of the field"],["BLOCKKEYOUTPUTR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_BLOCKENROLL_SETKEYW","Proxy"],["_BLOCKKEYOUTPUTW","Proxy"]]});

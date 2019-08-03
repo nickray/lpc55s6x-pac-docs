@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FCOUNTR","Value of the field"],["FWMARKR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_FWMARKW","Proxy"]]});

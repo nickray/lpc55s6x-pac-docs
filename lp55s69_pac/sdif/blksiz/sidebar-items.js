@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BLOCK_SIZER","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_BLOCK_SIZEW","Proxy"]]});

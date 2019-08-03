@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SWR_RESETW","Values that can be written to the field `SWR_RESET`"]],"struct":[["W","Value to write to the register"],["_SWR_RESETW","Proxy"]]});

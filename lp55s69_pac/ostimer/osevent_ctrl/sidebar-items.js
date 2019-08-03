@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["OSTIMER_INTENAR","Value of the field"],["OSTIMER_INTRFLAGR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_OSTIMER_INTENAW","Proxy"],["_OSTIMER_INTRFLAGW","Proxy"]]});

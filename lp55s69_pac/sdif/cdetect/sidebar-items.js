@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CARD0_DETECTR","Value of the field"],["CARD1_DETECTR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_CARD0_DETECTW","Proxy"],["_CARD1_DETECTW","Proxy"]]});

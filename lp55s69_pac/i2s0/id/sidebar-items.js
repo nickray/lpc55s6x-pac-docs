@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["APERTURER","Value of the field"],["IDR","Value of the field"],["MAJOR_REVR","Value of the field"],["MINOR_REVR","Value of the field"],["R","Value read from the register"]]});

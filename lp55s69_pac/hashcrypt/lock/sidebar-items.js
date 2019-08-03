@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SECLOCKR","Possible values of the field `SECLOCK`"],["SECLOCKW","Values that can be written to the field `SECLOCK`"]],"struct":[["PATTERNR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_PATTERNW","Proxy"],["_SECLOCKW","Proxy"]]});

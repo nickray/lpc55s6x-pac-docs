@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Value read from the register"],["TMP_FORMATEXTR","Value of the field"],["TMP_FORMATINTR","Value of the field"],["TMP_SCALERR","Value of the field"],["W","Value to write to the register"],["_TMP_FORMATEXTW","Proxy"],["_TMP_FORMATINTW","Proxy"],["_TMP_SCALERW","Proxy"]]});

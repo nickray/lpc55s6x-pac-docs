@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["KEYR","Possible values of the field `KEY`"],["KEYW","Values that can be written to the field `KEY`"],["LOCKR","Possible values of the field `LOCK`"],["LOCKW","Values that can be written to the field `LOCK`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"],["_KEYW","Proxy"],["_LOCKW","Proxy"]]});

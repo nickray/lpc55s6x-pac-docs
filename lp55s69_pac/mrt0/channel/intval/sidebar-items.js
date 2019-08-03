@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["LOADR","Possible values of the field `LOAD`"],["LOADW","Values that can be written to the field `LOAD`"]],"struct":[["IVALUER","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_IVALUEW","Proxy"],["_LOADW","Proxy"]]});

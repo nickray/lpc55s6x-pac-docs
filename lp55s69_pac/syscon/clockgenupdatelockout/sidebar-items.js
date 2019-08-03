@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CLOCKGENUPDATELOCKOUTR","Possible values of the field `CLOCKGENUPDATELOCKOUT`"],["CLOCKGENUPDATELOCKOUTW","Values that can be written to the field `CLOCKGENUPDATELOCKOUT`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"],["_CLOCKGENUPDATELOCKOUTW","Proxy"]]});

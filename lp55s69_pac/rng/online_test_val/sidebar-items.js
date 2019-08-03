@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["LIVE_CHI_SQUAREDR","Value of the field"],["MAX_CHI_SQUAREDR","Value of the field"],["MIN_CHI_SQUAREDR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"]]});

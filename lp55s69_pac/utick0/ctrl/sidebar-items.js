@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DELAYVALR","Value of the field"],["R","Value read from the register"],["REPEATR","Value of the field"],["W","Value to write to the register"],["_DELAYVALW","Proxy"],["_REPEATW","Proxy"]]});

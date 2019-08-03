@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CPPRE_INR","Value of the field"],["CPPRE_OUTR","Value of the field"],["CPPRE_SAT8R","Value of the field"],["CPPRE_SATR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_CPPRE_INW","Proxy"],["_CPPRE_OUTW","Proxy"],["_CPPRE_SAT8W","Proxy"],["_CPPRE_SATW","Proxy"]]});

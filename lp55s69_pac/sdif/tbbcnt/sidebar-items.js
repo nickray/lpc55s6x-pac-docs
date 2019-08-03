@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Value read from the register"],["TRANS_FIFO_BYTE_COUNTR","Value of the field"],["W","Value to write to the register"],["_TRANS_FIFO_BYTE_COUNTW","Proxy"]]});

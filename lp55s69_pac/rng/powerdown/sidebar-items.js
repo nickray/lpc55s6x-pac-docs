@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FORCE_SOFT_RESETR","Value of the field"],["POWERDOWNR","Value of the field"],["R","Value read from the register"],["SOFT_RESETR","Value of the field"],["W","Value to write to the register"],["_FORCE_SOFT_RESETW","Proxy"],["_POWERDOWNW","Proxy"],["_SOFT_RESETW","Proxy"]]});

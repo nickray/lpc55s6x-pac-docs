@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FLASH_SIZER","Value of the field"],["MODELNUM_EXTENTIONR","Value of the field"],["PARTCONFIGR","Value of the field"],["R","Value read from the register"],["ROM_REV_MINORR","Value of the field"],["SRAM_SIZER","Value of the field"]]});

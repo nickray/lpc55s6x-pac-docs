@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EVTIMER_COUNT_VALUER","Value of the field"],["R","Value read from the register"]]});

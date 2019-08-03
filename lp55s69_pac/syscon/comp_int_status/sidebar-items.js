@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["INT_STATUSR","Possible values of the field `INT_STATUS`"],["STATUSR","Possible values of the field `STATUS`"],["VALR","Possible values of the field `VAL`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"]]});

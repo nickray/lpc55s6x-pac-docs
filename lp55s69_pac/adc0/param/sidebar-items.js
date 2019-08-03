@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["FIFOSIZER","Possible values of the field `FIFOSIZE`"]],"struct":[["CMD_NUMR","Value of the field"],["CV_NUMR","Value of the field"],["R","Value read from the register"],["TRIG_NUMR","Value of the field"]]});

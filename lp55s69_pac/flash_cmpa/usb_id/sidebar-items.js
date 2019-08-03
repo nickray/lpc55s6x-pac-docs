@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Value read from the register"],["USB_PRODUCT_IDR","Value of the field"],["USB_VENDOR_IDR","Value of the field"],["W","Value to write to the register"],["_USB_PRODUCT_IDW","Proxy"],["_USB_VENDOR_IDW","Proxy"]]});

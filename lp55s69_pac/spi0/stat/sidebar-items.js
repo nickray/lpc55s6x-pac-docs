@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ENDTRANSFERR","Value of the field"],["MSTIDLER","Value of the field"],["R","Value read from the register"],["STALLEDR","Value of the field"],["W","Value to write to the register"],["_ENDTRANSFERW","Proxy"],["_SSAW","Proxy"],["_SSDW","Proxy"]]});

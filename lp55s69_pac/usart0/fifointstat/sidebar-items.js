@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PERINTR","Value of the field"],["R","Value read from the register"],["RXERRR","Value of the field"],["RXLVLR","Value of the field"],["TXERRR","Value of the field"],["TXLVLR","Value of the field"]]});

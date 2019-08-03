@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["USBHS_3V_NOKR","Possible values of the field `USBHS_3V_NOK`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"]]});

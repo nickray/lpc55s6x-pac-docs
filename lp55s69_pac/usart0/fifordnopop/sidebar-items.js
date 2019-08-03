@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FRAMERRR","Value of the field"],["PARITYERRR","Value of the field"],["R","Value read from the register"],["RXDATAR","Value of the field"],["RXNOISER","Value of the field"]]});

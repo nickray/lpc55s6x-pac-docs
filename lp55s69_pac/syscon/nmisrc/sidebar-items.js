@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IRQCPU0R","Value of the field"],["IRQCPU1R","Value of the field"],["NMIENCPU0R","Value of the field"],["NMIENCPU1R","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_IRQCPU0W","Proxy"],["_IRQCPU1W","Proxy"],["_NMIENCPU0W","Proxy"],["_NMIENCPU1W","Proxy"]]});

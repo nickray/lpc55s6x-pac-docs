@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["cppwr","Coprocessor Power Control Register"]],"struct":[["CPPWR","Coprocessor Power Control Register"],["RegisterBlock","Register block"]]});

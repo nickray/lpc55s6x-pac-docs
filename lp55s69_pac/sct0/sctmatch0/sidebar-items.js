@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["MATCHN_HR","Value of the field"],["MATCHN_LR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_MATCHN_HW","Proxy"],["_MATCHN_LW","Proxy"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DMA_MTSR","Value of the field"],["R","Value read from the register"],["RX_WMARKR","Value of the field"],["TX_WMARKR","Value of the field"],["W","Value to write to the register"],["_DMA_MTSW","Proxy"],["_RX_WMARKW","Proxy"],["_TX_WMARKW","Proxy"]]});

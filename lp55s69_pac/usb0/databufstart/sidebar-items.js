@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DA_BUFR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_DA_BUFW","Proxy"]]});

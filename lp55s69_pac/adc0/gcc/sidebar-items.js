@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["RDYR","Possible values of the field `RDY`"]],"struct":[["GAIN_CALR","Value of the field"],["R","Value read from the register"]]});

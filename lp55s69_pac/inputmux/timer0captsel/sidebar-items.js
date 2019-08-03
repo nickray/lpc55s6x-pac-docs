@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CAPTSELR","Possible values of the field `CAPTSEL`"],["CAPTSELW","Values that can be written to the field `CAPTSEL`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"],["_CAPTSELW","Proxy"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SEC_VIO_INFO_DATA_ACCESSR","Possible values of the field `SEC_VIO_INFO_DATA_ACCESS`"],["SEC_VIO_INFO_MASTERR","Possible values of the field `SEC_VIO_INFO_MASTER`"],["SEC_VIO_INFO_WRITER","Possible values of the field `SEC_VIO_INFO_WRITE`"]],"struct":[["R","Value read from the register"],["SEC_VIO_INFO_MASTER_SEC_LEVELR","Value of the field"]]});

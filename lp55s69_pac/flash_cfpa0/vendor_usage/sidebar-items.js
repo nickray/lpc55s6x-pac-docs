@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DBG_VENDOR_USAGER","Value of the field"],["INVERSE_VALUER","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_DBG_VENDOR_USAGEW","Proxy"],["_INVERSE_VALUEW","Proxy"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Value read from the register"],["RXDATAR","Value of the field"],["RXSSEL0_NR","Value of the field"],["RXSSEL1_NR","Value of the field"],["RXSSEL2_NR","Value of the field"],["RXSSEL3_NR","Value of the field"],["SOTR","Value of the field"]]});

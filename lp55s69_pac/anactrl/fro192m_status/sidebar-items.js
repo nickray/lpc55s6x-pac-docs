@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CLK_VALIDR","Possible values of the field `CLK_VALID`"]],"struct":[["ATB_VCTRLR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"]]});

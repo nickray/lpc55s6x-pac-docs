@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ERR_CODER","Value of the field"],["FRAME_NRR","Value of the field"],["MAJREVR","Value of the field"],["MINREVR","Value of the field"],["R","Value read from the register"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ACTIVEERRINTR","Possible values of the field `ACTIVEERRINT`"],["ACTIVEINTR","Possible values of the field `ACTIVEINT`"]],"struct":[["R","Value read from the register"]]});

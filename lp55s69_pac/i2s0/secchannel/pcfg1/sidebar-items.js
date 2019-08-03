@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ONECHANNELR","Value of the field"],["PAIRENABLER","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_ONECHANNELW","Proxy"],["_PAIRENABLEW","Proxy"]]});

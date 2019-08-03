@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ADDR_FIXEDR","Value of the field"],["ADDR_PRGR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_ADDR_PRGW","Proxy"]]});

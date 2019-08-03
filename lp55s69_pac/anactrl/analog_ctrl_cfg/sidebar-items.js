@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["FRO192M_TRIM_SRCR","Possible values of the field `FRO192M_TRIM_SRC`"],["FRO192M_TRIM_SRCW","Values that can be written to the field `FRO192M_TRIM_SRC`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"],["_FRO192M_TRIM_SRCW","Proxy"]]});

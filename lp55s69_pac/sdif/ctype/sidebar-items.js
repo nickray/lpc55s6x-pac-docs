@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CARD0_WIDTH0R","Value of the field"],["CARD0_WIDTH1R","Value of the field"],["CARD1_WIDTH0R","Value of the field"],["CARD1_WIDTH1R","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_CARD0_WIDTH0W","Proxy"],["_CARD0_WIDTH1W","Proxy"],["_CARD1_WIDTH0W","Proxy"],["_CARD1_WIDTH1W","Proxy"]]});

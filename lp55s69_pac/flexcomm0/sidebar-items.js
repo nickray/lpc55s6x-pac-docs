@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["pid","Peripheral identification register."],["pselid","Peripheral Select and Flexcomm ID register."]],"struct":[["PID","Peripheral identification register."],["PSELID","Peripheral Select and Flexcomm ID register."],["RegisterBlock","Register block"]]});

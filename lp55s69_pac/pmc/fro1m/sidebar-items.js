@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["DIVSELR","Possible values of the field `DIVSEL`"],["DIVSELW","Values that can be written to the field `DIVSEL`"]],"struct":[["ATBCTRLR","Value of the field"],["FREQSELR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_ATBCTRLW","Proxy"],["_DIVSELW","Proxy"],["_FREQSELW","Proxy"]]});

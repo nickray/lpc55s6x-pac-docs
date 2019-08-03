@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FEEDDIVACKR","Value of the field"],["FRMDETR","Value of the field"],["LOCKR","Value of the field"],["POSTDIVACKR","Value of the field"],["PREDIVACKR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"]]});

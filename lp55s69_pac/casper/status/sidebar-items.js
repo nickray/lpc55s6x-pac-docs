@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["BUSYR","Possible values of the field `BUSY`"],["CARRYR","Possible values of the field `CARRY`"],["DONER","Possible values of the field `DONE`"],["DONEW","Values that can be written to the field `DONE`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"],["_DONEW","Proxy"]]});

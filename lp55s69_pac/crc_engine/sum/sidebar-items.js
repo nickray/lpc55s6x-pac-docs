@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CRC_SUMR","Value of the field"],["R","Value read from the register"]]});

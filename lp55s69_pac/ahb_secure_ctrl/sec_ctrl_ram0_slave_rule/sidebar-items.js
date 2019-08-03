@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["RAM0_RULER","Possible values of the field `RAM0_RULE`"],["RAM0_RULEW","Values that can be written to the field `RAM0_RULE`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"],["_RAM0_RULEW","Proxy"]]});

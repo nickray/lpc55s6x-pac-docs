@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PFD_STABLER","Value of the field"],["R","Value read from the register"],["SESS_VLD_1P8VR","Value of the field"],["USB2_IDDIG_1P8VR","Value of the field"],["USB2_PLUGGED_IN_1P8VR","Value of the field"],["USB2_RX_VMIN_FS_1P8VR","Value of the field"],["USB2_RX_VPIN_FS_1P8VR","Value of the field"],["VBUSVALID_3VDETECT_1P8VR","Value of the field"]]});

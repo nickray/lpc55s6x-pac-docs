@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DECODE_MACHINER","Value of the field"],["DECODE_OPCODER","Value of the field"],["INST_BUSYR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_DECODE_MACHINEW","Proxy"],["_DECODE_OPCODEW","Proxy"]]});

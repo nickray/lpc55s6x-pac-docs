@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PAUSEENR","Possible values of the field `PAUSEEN`"],["PAUSEENW","Values that can be written to the field `PAUSEEN`"]],"struct":[["PAUSEDLYR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_PAUSEDLYW","Proxy"],["_PAUSEENW","Proxy"]]});

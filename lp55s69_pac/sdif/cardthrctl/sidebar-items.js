@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BSYCLRINTENR","Value of the field"],["CARDRDTHRENR","Value of the field"],["CARDTHRESHOLDR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_BSYCLRINTENW","Proxy"],["_CARDRDTHRENW","Proxy"],["_CARDTHRESHOLDW","Proxy"]]});

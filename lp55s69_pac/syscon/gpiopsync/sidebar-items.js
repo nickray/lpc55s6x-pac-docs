@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PSYNCR","Possible values of the field `PSYNC`"],["PSYNCW","Values that can be written to the field `PSYNC`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"],["_PSYNCW","Proxy"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["DEV_NEED_CLKSTR","Possible values of the field `DEV_NEED_CLKST`"],["HOST_NEED_CLKSTR","Possible values of the field `HOST_NEED_CLKST`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["MD_LBSR","Value of the field"],["R","Value read from the register"],["W","Value to write to the register"],["_MD_LBSW","Proxy"]]});

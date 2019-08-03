@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CLOCKENABLER","Value of the field"],["DPDWAKEUPENABLER","Value of the field"],["OSC32KPDR","Value of the field"],["R","Value read from the register"],["SOFTRESETR","Value of the field"],["W","Value to write to the register"],["_CLOCKENABLEW","Proxy"],["_DPDWAKEUPENABLEW","Proxy"],["_OSC32KPDW","Proxy"],["_SOFTRESETW","Proxy"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CPU1ENABLER","Possible values of the field `CPU1ENABLE`"],["CPU1ENABLEW","Values that can be written to the field `CPU1ENABLE`"]],"struct":[["R","Value read from the register"],["W","Value to write to the register"],["_CPU1ENABLEW","Proxy"]]});
