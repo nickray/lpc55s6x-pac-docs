@@ -5,6 +5,7 @@ ALIASES["bare_metal"] = {};
 ALIASES["cortex_m"] = {};
 ALIASES["generic_array"] = {};
 ALIASES["lp55s69_pac"] = {};
+ALIASES["lpc55s6x_pac"] = {};
 ALIASES["stable_deref_trait"] = {};
 ALIASES["typenum"] = {};
 ALIASES["vcell"] = {};
