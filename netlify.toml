@@ -1,0 +1,8 @@
+[build]
+  base = "docs/"
+
+[[redirects]]
+  from = "/"
+  to = "/lp55s69_pac"
+  status = 302
+
