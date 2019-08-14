@@ -1,8 +1,7 @@
 [build]
-  base = "docs/"
+  publish = "docs/"
 
 [[redirects]]
   from = "/"
   to = "/lpc55s6x_pac/index.html"
   status = 302
-
